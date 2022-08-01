@@ -4,11 +4,15 @@
   "description": "vue-js-course",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js",
+    "dev": "nodemon index.js"
   },
   "author": "ryzhak",
   "license": "ISC",
   "dependencies": {
     "json-server": "^0.17.0"
+  },
+  "engines": {
+    "node": "16.x"
   }
 }
