@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Vue.js 2022",
-      "date": "17/05/2022",
+      "date": "2022-05-17",
       "status": "in progress",
       "docs_link": "https://drive.google.com/drive/folders/1TZ2Db2b7DtPeBCD4t9whf7RuExtesosX?usp=sharing",
       "applicants": [],
@@ -12,59 +12,37 @@
         {
           "id": "12",
           "name": "Home work #1 (Semen S.)",
-          "date": "17/05/2022",
-          "scores": [
-            {
-              "id": "136b7a6d-6026-4742-bc32-32596497927b",
-              "email": "allen@test.com",
-              "fullName": "Allen Barrey",
-              "homeworkScore": 80,
-              "avatarUrl": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/default-avatar.png"
-            },
-            {
-              "id": "c407e98a-c514-4434-9e4c-3584a05b8a74",
-              "email": "VLAD@BASKO.33323",
-              "fullName": "VLAD BASKO ",
-              "homeworkScore": 80,
-              "avatarUrl": "url"
-            }
-          ]
+          "date": "2022-05-17"
         },
         {
           "id": "13",
           "name": "Home work #2 (Yura V.)",
-          "date": "24/05/2022",
-          "scores": []
+          "date": "2022-05-24"
         },
         {
           "id": "14",
           "name": "Home work #3 (Savelii M.)",
-          "date": "30/05/2022",
-          "scores": []
+          "date": "2022-05-30"
         },
         {
           "id": "15",
           "name": "Home work #4 (Savelii M.)",
-          "date": "02/06/2022",
-          "scores": []
+          "date": "2022-06-02"
         },
         {
           "id": "16",
           "name": "Home work #5 (Andrii R.)",
-          "date": "06/06/2022",
-          "scores": []
+          "date": "2022-06-06"
         },
         {
           "id": "17",
           "name": "Home work #6 (Andrii R.)",
-          "date": "13/06/2022",
-          "scores": []
+          "date": "2022-06-13"
         },
         {
           "id": "18",
           "name": "Home work #7 (Bohdan S.)",
-          "date": "16/06/2022",
-          "scores": []
+          "date": "2022-06-16"
         }
       ],
       "results": [],
@@ -73,16 +51,15 @@
     {
       "id": 2,
       "name": "Java",
-      "date": "15/08/2022",
+      "date": "2022-08-28",
       "status": "not started",
       "docs_link": "",
       "applicants": [
         {
-          "id": "136b7a6d-6026-4742-bc32-32596497927b",
+          "id": "c7abc7ec-e88f-4dfa-ae49-e061ea4f641f",
           "email": "allen@test.com",
           "fullName": "Allen Barrey",
-          "initialScore": 50,
-          "avatarUrl": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/default-avatar.png"
+          "initialScore": 50
         }
       ],
       "group": [],
@@ -91,7 +68,7 @@
       "comments": [
         {
           "message": "Interviewing applicants for course",
-          "createdAt": "06/07/2022 12:14",
+          "createdAt": "06.08.2022, 12:14:03",
           "author": "Stepan Smith",
           "author_id": "ce2d8df5-0d99-4bfc-a921-81ff6a0e66ef",
           "author_email": "s_smith@mail.com"
